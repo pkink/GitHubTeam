@@ -7,4 +7,5 @@ package com.bw.wxn.githubteamtest.model;
 public class NewsBean {
     //新建的新闻小功能
 //王坤
+    //123456
 }
